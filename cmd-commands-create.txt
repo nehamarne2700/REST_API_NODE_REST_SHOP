@@ -1,0 +1,50 @@
+Microsoft Windows [Version 10.0.17134.885]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\admin>cd Desktop\Node
+
+C:\Users\admin\Desktop\Node>cd node-rest-shop
+
+C:\Users\admin\Desktop\Node\node-rest-shop>npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (rest-shop)
+version: (1.0.0)
+description: A Node.js RESTful API Tutorial Project
+entry point: (index.js)
+test command:
+git repository:
+keywords: node restful api
+author: Neha Marne
+license: (ISC)
+About to write to C:\Users\admin\Desktop\Node\node-rest-shop\package.json:
+
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Tutorial Project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Neha Marne",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes) yes
+
+C:\Users\admin\Desktop\Node\node-rest-shop>
